@@ -1,6 +1,6 @@
 # Your New Favorite Weather Channel
 
-This model will potentially forecast weather in Madison, WI.
+I implemented a SARIMAX model to forecast precipitation in Madison, Wisconsin.
 
 Data:
 
