@@ -1,6 +1,6 @@
 # Your New Favorite Weather Channel
 
-I implemented SARIMAX to forecast precipitation in Madison, Wisconsin.
+I implemented SARIMA to forecast precipitation in Madison, Wisconsin.
 
 Data:
 
